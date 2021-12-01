@@ -252,6 +252,7 @@
   |[이중 우선순위 큐](https://www.acmicpc.net/problem/7662)|큐, 맵|O|
 </details>
 
+<details>
 <summary>10th study</summary>
 📅기간 : 2021-09-27 ~ 2021-09- 30
 
@@ -266,6 +267,7 @@
   |[소수 & 팰린드롬](https://www.acmicpc.net/problem/1747)|수학|O|
 </details>
 
+<details>
 <summary>11th study</summary>
 📅기간 : 2021-09-30 ~ 2021-10- 07
 
@@ -281,6 +283,7 @@
   |[팰린드롬?](https://www.acmicpc.net/problem/10942)|DP|O|
 </details>
 
+<details>
 <summary>12th study</summary>
 📅기간 : 2021-10-09 ~ 2021-10- 15
 
@@ -296,6 +299,7 @@
   |[마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611)|구현|X|
 </details>
 
+<details>
 <summary>14th study</summary>
 📅기간 : 2021-10-23 ~ 2021-10- 28
 
@@ -311,6 +315,7 @@
   |[휴게소 세우기](https://www.acmicpc.net/problem/1477)|이분탐색|X|
 </details>
 
+<details>
 <summary>15th study</summary>
 📅기간 : 2021-10-29 ~ 2021-11- 04
 
@@ -326,6 +331,7 @@
   |[잠수함식별](https://www.acmicpc.net/problem/10942)|문자열|O|
 </details>
 
+<details>
 <summary>16th study</summary>
 📅기간 : 2021-11-05 ~ 2021-11- 11
 
@@ -339,4 +345,36 @@
   |[탑](https://www.acmicpc.net/problem/2493)|자료구조(stack)|O|
   |[N으로 만들기](https://www.acmicpc.net/problem/17255)|자료구조(재귀)|O|
   |[단절점과 단절선](https://www.acmicpc.net/problem/14675)|트리|O|
+</details>
+
+<details>
+<summary>17th study</summary>
+📅기간 : 2021-11-12 ~ 2021-11- 18
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[순회강연](https://www.acmicpc.net/problem/2109)|그리디|X|
+  |[평범한 배낭](https://www.acmicpc.net/problem/12865)|DP|X|
+  |[회전 초밥](https://www.acmicpc.net/problem/15961)|투 포인터|X|
+</details>
+
+<details>
+<summary>18th study</summary>
+📅기간 : 2021-11-19 ~ 2021-12- 02
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[2048(Easy)](https://www.acmicpc.net/problem/12100)|구현|O|
+  |[연구소 2](https://www.acmicpc.net/problem/17141)|그래프|O|
+  |[종이 조각](https://www.acmicpc.net/problem/14391)|완탐|O|
 </details>
