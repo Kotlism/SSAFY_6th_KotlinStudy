@@ -738,9 +738,8 @@
             </td>
             <td>DP</td>
         </tr>
-     
-             </tr>
         <tr align="center">
+         <td rowspan="3">23주차<br>(2021/12/24 ~ 2021/12/30)</td>
             <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/1351">
@@ -750,7 +749,6 @@
             <td>DP</td>
         </tr>
              <tr align="center">
-            <td rowspan="3">22주차<br>(2021/12/17 ~ 2021/12/23)</td>
             <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/2533">
