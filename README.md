@@ -774,35 +774,7 @@
                 </a>
             </td>
             <td>이분탐색</td>
-        </tr>
-        <tr align="center">
-         <td rowspan="3">23주차<br>(2021/12/24 ~ 2021/12/30)</td>
-            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
-            <td>
-                <a href="https://www.acmicpc.net/problem/2133">
-                    BOJ 2133 타일 채우기
-                </a>
-            </td>
-            <td>DP</td>
-        </tr>
-             <tr align="center">
-            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
-            <td>
-                <a href="https://www.acmicpc.net/problem/5430">
-                    BOJ 5430 AC
-                </a>
-            </td>
-            <td>Deque</td>
-        </tr>
-        <tr align="center">
-            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
-            <td>
-                <a href="https://www.acmicpc.net/problem/14503">
-                    BOJ 14503 로봇청소기
-                </a>
-            </td>
-            <td>시뮬레이션</td>
-        </tr>
+     </tr>
     </tbody>
 </table>
 </details>
