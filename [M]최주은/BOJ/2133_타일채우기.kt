@@ -1,12 +1,10 @@
-package boj.`2133_타일채우기`
-
 val N = readLine()!!.toInt()
 val d = Array(1001) { 0 }
 
 fun main() {
     // 홀수면 무조건 짝이 맞지 않아 0이다.
-    if(N%2==0) dp(N)
-    print(dp(N))
+    if(N%2!=0) print(0)
+    else print(dp(N))
 }
 
 fun dp(n: Int) :Int {
