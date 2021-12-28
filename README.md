@@ -774,7 +774,7 @@
                 </a>
             </td>
             <td>이분탐색</td>
-        </tr>
+     </tr>
     </tbody>
 </table>
 </details>
