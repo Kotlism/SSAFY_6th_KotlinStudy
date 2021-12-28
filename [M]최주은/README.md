@@ -379,7 +379,7 @@
 | 레벨 |     문제     |                             내용                             | 수행 | 바로가기 | 정리글 |
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: |
 |골드5|[[BOJ_2133_타일 채우기)](https://www.acmicpc.net/problem/2133)]|DP| ○ |[클릭](./BOJ/2133_타일채우기.kt)| |
-|골드5|[[BOJ_5430_AC](https://www.acmicpc.net/problem/5430)]|Deque| ○ |[클릭](./BOJ/5430_AC.kt)|
+|골드5|[[BOJ_5430_AC](https://www.acmicpc.net/problem/5430)]|Deque| ○ |[클릭](./BOJ/5430_AC.kt)|[풀이](https://ilutoo.tistory.com/entry/BOJ5430KOTLIN-AC)|
 |골드5|[[BOJ_14503_로봇 청소기](https://www.acmicpc.net/problem/14503)]|시뮬레이션| ○ |[클릭](./BOJ/14503_로봇청소기.kt)| [풀이](https://ilutoo.tistory.com/entry/BOJ1403KOTLIN-%EB%A1%9C%EB%B4%87-%EC%B2%AD%EC%86%8C%EA%B8%B0?category=1028242)|
 |골드5|[[BOJ_17951_흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951)]|이분탐색| ○ |[클릭](./BOJ/17951_흩날리는시험지속에서내평점이느껴진거야.kt)|
 
