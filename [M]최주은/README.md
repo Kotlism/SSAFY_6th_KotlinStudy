@@ -372,7 +372,7 @@
 
 
 <details markdown="1">
-<summary><strong> 23~24주차❄ (2021/12/24 ~ 2022/01/07)</strong></summary> 
+<summary><strong> 23~24주차❄ (2021/12/24 ~ 2022/01/06)</strong></summary> 
 <br>
 <br>
 
