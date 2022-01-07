@@ -775,6 +775,43 @@
             </td>
             <td>이분탐색</td>
      </tr>
+          <tr align="center">
+            <td rowspan="4">25주차<br>(2022/01/07 ~ 2022/01/13)</td>
+            <td style="vertical-align:middle"><img src="./이미지/silver2.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1182">
+                    BOJ 1182 부분수열의 합
+                </a>
+            </td>
+            <td>백트래킹</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/silver2.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2529">
+                    BOJ 2529 부등호
+                </a>
+            </td>
+            <td>백트래킹</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/5014">
+                    BOJ 5014 스타트링크
+                </a>
+            </td>
+            <td>BFS</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/silver1.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/4358">
+                    BOJ 4358 생태학
+                </a>
+            </td>
+            <td>트라이</td>
+     </tr>
     </tbody>
 </table>
 </details>
