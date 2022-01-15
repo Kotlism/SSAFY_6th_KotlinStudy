@@ -403,3 +403,19 @@
 <br>
 </details>
 
+<details markdown="1">
+<summary><strong> 26주차❄ (2022/01/14 ~ 2022/01/20)</strong></summary> 
+<br>
+<br>
+
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|골드4|[[BOJ_1717_집합의 표현)](https://www.acmicpc.net/problem/1717)]|유니온파인드| ○ | JAVA | [클릭](./BOJ/1717_집합의표현.java)||
+|골드3|[[BOJ_19237_어른 상어](https://www.acmicpc.net/problem/19237)]|구현| ○ | JAVA | [클릭](./BOJ/19237_어른상어.java)||
+|실버1|[[BOJ_2841_외계인의 기타 연주](https://www.acmicpc.net/problem/2841)]|스택| ○ | JAVA | [클릭](./BOJ/2529_부등호.java)||
+|실버1|[[BOJ_2468_안전 영역](https://www.acmicpc.net/problem/2468)]|DFS| ○ | JAVA | [클릭](./BOJ/2468_안전영역.java)||
+|실버4|[[BOJ_4949_균형잡힌 세상](https://www.acmicpc.net/problem/4949)]|스택| ○ | JAVA | [클릭](./BOJ/4949_균형잡힌세상.java)||
+
+
+<br>
+</details>
