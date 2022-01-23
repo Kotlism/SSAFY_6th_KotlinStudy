@@ -426,3 +426,55 @@
   |[센서](https://www.acmicpc.net/problem/2212)|그리디|O|
   |[LCS](https://www.acmicpc.net/problem/9251)|DP|O|
 </details>
+
+<details>
+<summary>23, 24th study</summary>
+📅기간 : 2021-12-24 ~ 2022-01-07
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[타일 채우기](https://www.acmicpc.net/problem/2133)|DP|X|
+  |[AC](https://www.acmicpc.net/problem/5430)|Deque|X|
+  |[로봇 청소기](https://www.acmicpc.net/problem/14503)|시뮬레이션|X|
+  |[흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951)|이분탐색|X|
+</details>
+
+<details>
+<summary>25th study</summary>
+📅기간 : 2022-01-08 ~ 2022-01-13
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[부분수열의 합](https://www.acmicpc.net/problem/1182)|백트래킹|O|
+  |[부등호](https://www.acmicpc.net/problem/2529)|백트래킹|O|
+  |[스타트링크](https://www.acmicpc.net/problem/5014)|BFS|O|
+  |[생태학](https://www.acmicpc.net/problem/4358)|트라이|X|
+</details>
+
+<details>
+<summary>26th study</summary>
+📅기간 : 2022-01-14 ~ 2022-01-20
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[집합의 표현](https://www.acmicpc.net/problem/1717)|유니온 파인드|X|
+  |[안전 영역](https://www.acmicpc.net/problem/2468)|DFS|X|
+  |[어른 상어](https://www.acmicpc.net/problem/19237)|구현|X|
+  |[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|스택|X|
+  |[외계인의 기타 연주](https://www.acmicpc.net/problem/2841)|스택|X|
+</details>
