@@ -364,7 +364,7 @@
 </details>
 
 <details>
-<summary>18th study</summary>
+<summary>18, 19th study</summary>
 📅기간 : 2021-11-19 ~ 2021-12- 02
 
   🌱목표
@@ -380,7 +380,7 @@
 </details>
 
 <details>
-<summary>18th study</summary>
+<summary>20th study</summary>
 📅기간 : 2021-12-03 ~ 2021-12- 09
 
   🌱목표
@@ -393,4 +393,20 @@
   |[나무 재테크](https://www.acmicpc.net/problem/16235)|구현|O|
   |[놀이 공원](https://www.acmicpc.net/problem/1561)|이분탐색|O|
   |[행렬 제곱](https://www.acmicpc.net/problem/10830)|분할정복|O|
+</details>
+
+<details>
+<summary>21th study</summary>
+📅기간 : 2021-12-10 ~ 2021-12-16
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[개미굴](https://www.acmicpc.net/problem/14725)|문자열|O|
+  |[특정한 최단 경로](https://www.acmicpc.net/problem/1504)|최단거리|O|
+  |[무한 수열](https://www.acmicpc.net/problem/1351)|자료구조|O|
 </details>
