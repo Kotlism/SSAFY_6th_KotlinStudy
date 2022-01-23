@@ -478,3 +478,20 @@
   |[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|스택|X|
   |[외계인의 기타 연주](https://www.acmicpc.net/problem/2841)|스택|X|
 </details>
+
+<details>
+<summary>27th study</summary>
+📅기간 : 2022-01-21 ~ 2022-01-27
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[절댓값 힙](https://www.acmicpc.net/problem/11286)|우선순위 큐|O|
+  |[적록 색약](https://www.acmicpc.net/problem/10026)|DFS|X|
+  |[토너먼트 만들기](https://www.acmicpc.net/problem/2262)|그리디|X|
+  |[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|구현|X|
+</details>
