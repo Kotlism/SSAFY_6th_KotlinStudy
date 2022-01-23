@@ -410,3 +410,19 @@
   |[특정한 최단 경로](https://www.acmicpc.net/problem/1504)|최단거리|O|
   |[무한 수열](https://www.acmicpc.net/problem/1351)|자료구조|O|
 </details>
+
+<details>
+<summary>22th study</summary>
+📅기간 : 2021-12-17 ~ 2021-12-23
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|트리|X|
+  |[센서](https://www.acmicpc.net/problem/2212)|그리디|O|
+  |[LCS](https://www.acmicpc.net/problem/9251)|DP|O|
+</details>
