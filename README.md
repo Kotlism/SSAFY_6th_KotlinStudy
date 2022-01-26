@@ -813,7 +813,7 @@
             <td>트라이</td>
      </tr>
      <tr align="center">
-            <td rowspan="4">26주차<br>(2022/01/14 ~ 2022/01/20)</td>
+            <td rowspan="5">26주차<br>(2022/01/14 ~ 2022/01/20)</td>
             <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
             <td>
                 <a href="https://www.acmicpc.net/problem/1717">
@@ -886,15 +886,6 @@
             </td>
             <td>그리디</td>
         </tr>
-        <tr align="center">
-            <td style="vertical-align:middle"><img src="./이미지/silver4.svg" width="17"/></td>
-            <td>
-                <a href="https://www.acmicpc.net/problem/4949">
-                    BOJ 4949 균형잡힌 세상
-                </a>
-            </td>
-            <td>문자열</td>
-     </tr>
      <tr align="center">
             <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
             <td>
