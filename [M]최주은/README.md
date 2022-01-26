@@ -431,7 +431,7 @@
 |실버1|[[BOJ_11286_절대값 힙)](https://www.acmicpc.net/problem/11286)]|우선순위큐| ○ | JAVA | [클릭](./BOJ/11286_절댓값힙.java)||
 |골드5|[[BOJ_2262_토너먼트 만들기](https://www.acmicpc.net/problem/2262)]|그리디| △ | JAVA | [클릭](./BOJ/2262_토너먼트만들기.java)||
 |골드5|[[BOJ_10026_적녹색약](https://www.acmicpc.net/problem/10026)]|DFS/BFS| ○ | JAVA | [클릭](./BOJ/10026_적녹색약.java)||
-|골드3|[[BOJ_20057_마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)]|구현/시뮬| ✕ | JAVA | [클릭](./BOJ/20057_마법사상어와토네이도.java)||
+|골드3|[[BOJ_20057_마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)]|구현/시뮬| ○ | JAVA | [클릭](./BOJ/20057_마법사상어와토네이도.java)||
 
 
 <br>
