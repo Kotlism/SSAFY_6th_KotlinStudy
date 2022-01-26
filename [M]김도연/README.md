@@ -364,7 +364,7 @@
 </details>
 
 <details>
-<summary>18th study</summary>
+<summary>18, 19th study</summary>
 📅기간 : 2021-11-19 ~ 2021-12- 02
 
   🌱목표
@@ -380,7 +380,7 @@
 </details>
 
 <details>
-<summary>18th study</summary>
+<summary>20th study</summary>
 📅기간 : 2021-12-03 ~ 2021-12- 09
 
   🌱목표
@@ -393,4 +393,105 @@
   |[나무 재테크](https://www.acmicpc.net/problem/16235)|구현|O|
   |[놀이 공원](https://www.acmicpc.net/problem/1561)|이분탐색|O|
   |[행렬 제곱](https://www.acmicpc.net/problem/10830)|분할정복|O|
+</details>
+
+<details>
+<summary>21th study</summary>
+📅기간 : 2021-12-10 ~ 2021-12-16
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[개미굴](https://www.acmicpc.net/problem/14725)|문자열|O|
+  |[특정한 최단 경로](https://www.acmicpc.net/problem/1504)|최단거리|O|
+  |[무한 수열](https://www.acmicpc.net/problem/1351)|자료구조|O|
+</details>
+
+<details>
+<summary>22th study</summary>
+📅기간 : 2021-12-17 ~ 2021-12-23
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[사회망 서비스(SNS)](https://www.acmicpc.net/problem/2533)|트리|X|
+  |[센서](https://www.acmicpc.net/problem/2212)|그리디|O|
+  |[LCS](https://www.acmicpc.net/problem/9251)|DP|O|
+</details>
+
+<details>
+<summary>23, 24th study</summary>
+📅기간 : 2021-12-24 ~ 2022-01-07
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[타일 채우기](https://www.acmicpc.net/problem/2133)|DP|X|
+  |[AC](https://www.acmicpc.net/problem/5430)|Deque|X|
+  |[로봇 청소기](https://www.acmicpc.net/problem/14503)|시뮬레이션|X|
+  |[흩날리는 시험지 속에서 내 평점이 느껴진거야](https://www.acmicpc.net/problem/17951)|이분탐색|X|
+</details>
+
+<details>
+<summary>25th study</summary>
+📅기간 : 2022-01-08 ~ 2022-01-13
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[부분수열의 합](https://www.acmicpc.net/problem/1182)|백트래킹|O|
+  |[부등호](https://www.acmicpc.net/problem/2529)|백트래킹|O|
+  |[스타트링크](https://www.acmicpc.net/problem/5014)|BFS|O|
+  |[생태학](https://www.acmicpc.net/problem/4358)|트라이|X|
+</details>
+
+<details>
+<summary>26th study</summary>
+📅기간 : 2022-01-14 ~ 2022-01-20
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[집합의 표현](https://www.acmicpc.net/problem/1717)|유니온 파인드|X|
+  |[안전 영역](https://www.acmicpc.net/problem/2468)|DFS|X|
+  |[어른 상어](https://www.acmicpc.net/problem/19237)|구현|X|
+  |[균형잡힌 세상](https://www.acmicpc.net/problem/4949)|스택|X|
+  |[외계인의 기타 연주](https://www.acmicpc.net/problem/2841)|스택|X|
+</details>
+
+<details>
+<summary>27th study</summary>
+📅기간 : 2022-01-21 ~ 2022-01-27
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[절댓값 힙](https://www.acmicpc.net/problem/11286)|우선순위 큐|O|
+  |[적록 색약](https://www.acmicpc.net/problem/10026)|DFS|X|
+  |[토너먼트 만들기](https://www.acmicpc.net/problem/2262)|그리디|X|
+  |[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|구현|X|
 </details>

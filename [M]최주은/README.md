@@ -411,8 +411,8 @@
 | 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
 |골드4|[[BOJ_1717_집합의 표현)](https://www.acmicpc.net/problem/1717)]|유니온파인드| ○ | JAVA | [클릭](./BOJ/1717_집합의표현.java)|[링크](https://ilutoo.tistory.com/entry/BOJ1717JAVA-%EC%A7%91%ED%95%A9%EC%9D%98-%ED%91%9C%ED%98%84)|
-|골드3|[[BOJ_19237_어른 상어](https://www.acmicpc.net/problem/19237)]|구현| ○ | JAVA | [클릭](./BOJ/19237_어른상어.java)||
-|실버1|[[BOJ_2841_외계인의 기타 연주](https://www.acmicpc.net/problem/2841)]|스택| ○ | JAVA | [클릭](./BOJ/2529_부등호.java)||
+|골드3|[[BOJ_19237_어른 상어](https://www.acmicpc.net/problem/19237)]|구현| ✕ | JAVA | [클릭](./BOJ/19237_어른상어.java)||
+|실버1|[[BOJ_2841_외계인의 기타 연주](https://www.acmicpc.net/problem/2841)]|스택| ○ | JAVA | [클릭](./BOJ/2841_외계인의기타연주.java)||
 |실버1|[[BOJ_2468_안전 영역](https://www.acmicpc.net/problem/2468)]|DFS| ○ | JAVA | [클릭](./BOJ/2468_안전영역.java)|[링크](https://ilutoo.tistory.com/entry/BOJ2468KOTLIN-%EC%95%88%EC%A0%84-%EC%98%81%EC%97%AD)|
 |실버4|[[BOJ_4949_균형잡힌 세상](https://www.acmicpc.net/problem/4949)]|스택| ○ | JAVA | [클릭](./BOJ/4949_균형잡힌세상.java)|[링크](https://ilutoo.tistory.com/entry/BOJ4949JAVA-%EA%B7%A0%ED%98%95%EC%9E%A1%ED%9E%8C-%EC%84%B8%EC%83%81)|
 
