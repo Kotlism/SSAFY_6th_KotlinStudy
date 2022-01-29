@@ -775,7 +775,24 @@
             </td>
             <td>이분탐색</td>
      </tr>
-          <tr align="center">
+    </tbody>
+</table>
+</details>
+
+<details markdown="1">
+<summary><strong> 2022/01</strong></summary>
+<br>
+<table style="text-aling:center">
+    <thead>
+        <tr align="center">
+        	<th> </th>
+    		<th>레벨</th>
+    		<th>문제</th>
+    		<th>유형</th>
+    	</tr>
+    </thead>
+    <tbody>
+     <tr align="center">
             <td rowspan="4">25주차<br>(2022/01/07 ~ 2022/01/13)</td>
             <td style="vertical-align:middle"><img src="./이미지/silver2.svg" width="17"/></td>
             <td>
@@ -895,6 +912,43 @@
             </td>
             <td>DFS</td>
      </tr>
-    </tbody>
+          <tr align="center">
+            <td rowspan="4">28주차<br>(2022/01/28 ~ 2022/02/10)</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/16455">
+                    BOJ 16455 K번째 수 찾는 함수
+                </a>
+            </td>
+            <td>정렬</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/3190">
+                    BOJ 3190 뱀
+                </a>
+            </td>
+            <td>Deque</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1493">
+                    BOJ 1493 박스채우기
+                </a>
+            </td>
+            <td>재귀, 분할정복</td>
+        </tr>
+     <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/19238">
+                    BOJ 19238 스타트 택시
+                </a>
+            </td>
+            <td>구현/시뮬</td>
+     </tr>
+  </tbody>
 </table>
 </details>
