@@ -775,7 +775,24 @@
             </td>
             <td>이분탐색</td>
      </tr>
-          <tr align="center">
+    </tbody>
+</table>
+</details>
+
+<details markdown="1">
+<summary><strong> 2022/01</strong></summary>
+<br>
+<table style="text-aling:center">
+    <thead>
+        <tr align="center">
+        	<th> </th>
+    		<th>레벨</th>
+    		<th>문제</th>
+    		<th>유형</th>
+    	</tr>
+    </thead>
+    <tbody>
+     <tr align="center">
             <td rowspan="4">25주차<br>(2022/01/07 ~ 2022/01/13)</td>
             <td style="vertical-align:middle"><img src="./이미지/silver2.svg" width="17"/></td>
             <td>
@@ -932,6 +949,6 @@
             </td>
             <td>구현/시뮬</td>
      </tr>
-    </tbody>
+  </tbody>
 </table>
 </details>
