@@ -775,7 +775,24 @@
             </td>
             <td>이분탐색</td>
      </tr>
-          <tr align="center">
+    </tbody>
+</table>
+</details>
+
+<details markdown="1">
+<summary><strong> 2022/01</strong></summary>
+<br>
+<table style="text-aling:center">
+    <thead>
+        <tr align="center">
+        	<th> </th>
+    		<th>레벨</th>
+    		<th>문제</th>
+    		<th>유형</th>
+    	</tr>
+    </thead>
+    <tbody>
+     <tr align="center">
             <td rowspan="4">25주차<br>(2022/01/07 ~ 2022/01/13)</td>
             <td style="vertical-align:middle"><img src="./이미지/silver2.svg" width="17"/></td>
             <td>
@@ -812,6 +829,126 @@
             </td>
             <td>트라이</td>
      </tr>
-    </tbody>
+     <tr align="center">
+            <td rowspan="5">26주차<br>(2022/01/14 ~ 2022/01/20)</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1717">
+                    BOJ 1717 집합의 표현
+                </a>
+            </td>
+            <td>자료구조</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/silver1.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2468">
+                    BOJ 2468 안전영역
+                </a>
+            </td>
+            <td>DFS/BFS</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/19237">
+                    BOJ 19237 어른 상어
+                </a>
+            </td>
+            <td>구현/시뮬</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/silver4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/4949">
+                    BOJ 4949 균형잡힌 세상
+                </a>
+            </td>
+            <td>문자열</td>
+     </tr>
+     <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/silver1.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2841">
+                    BOJ 2841 외계인의 기타 연주
+                </a>
+            </td>
+            <td>유니온 파인드</td>
+     </tr>
+     <tr align="center">
+            <td rowspan="4">27주차<br>(2022/01/21 ~ 2022/01/27)</td>
+            <td style="vertical-align:middle"><img src="./이미지/silver1.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/11286">
+                    BOJ 11286 절댓값 힙
+                </a>
+            </td>
+            <td>우선순위 큐</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/20057">
+                    BOJ 20057 마법사 상어와 토네이도
+                </a>
+            </td>
+            <td>구현/시뮬</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2262">
+                    BOJ 2262 토너먼트 만들기
+                </a>
+            </td>
+            <td>그리디</td>
+        </tr>
+     <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/10026">
+                    BOJ 10026 적록색약
+                </a>
+            </td>
+            <td>DFS</td>
+     </tr>
+          <tr align="center">
+            <td rowspan="4">28주차<br>(2022/01/28 ~ 2022/02/10)</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/16455">
+                    BOJ 16455 K번째 수 찾는 함수
+                </a>
+            </td>
+            <td>정렬</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/3190">
+                    BOJ 3190 뱀
+                </a>
+            </td>
+            <td>Deque</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1493">
+                    BOJ 1493 박스채우기
+                </a>
+            </td>
+            <td>재귀, 분할정복</td>
+        </tr>
+     <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/19238">
+                    BOJ 19238 스타트 택시
+                </a>
+            </td>
+            <td>구현/시뮬</td>
+     </tr>
+  </tbody>
 </table>
 </details>
