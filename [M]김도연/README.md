@@ -491,7 +491,40 @@
   |문제|문제 유형|해결|
   |:----:|:----------|:----:|
   |[절댓값 힙](https://www.acmicpc.net/problem/11286)|우선순위 큐|O|
-  |[적록 색약](https://www.acmicpc.net/problem/10026)|DFS|X|
+  |[적록 색약](https://www.acmicpc.net/problem/10026)|DFS|O|
   |[토너먼트 만들기](https://www.acmicpc.net/problem/2262)|그리디|X|
   |[마법사 상어와 토네이도](https://www.acmicpc.net/problem/20057)|구현|X|
+</details>
+
+<details>
+<summary>28th study</summary>
+📅기간 : 2022-01-28 ~ 2022-02-10
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[뱀](https://www.acmicpc.net/problem/3190)|Deque|O|
+  |[박스 채우기](https://www.acmicpc.net/problem/1493)|분할정복|X|
+  |[스타트 택시](https://www.acmicpc.net/problem/19238)|구현|X|
+</details>
+
+<details>
+<summary>29th study</summary>
+📅기간 : 2022-02-11 ~ 2022-02-17
+
+  🌱목표
+  * Kotlin으로 기본 자료구조 구현
+  * kotlin의 다양한 함수 공부
+
+📃숙제
+  |문제|문제 유형|해결|
+  |:----:|:----------|:----:|
+  |[문자열 폭발](https://www.acmicpc.net/problem/9935)|문자열|X|
+  |[파티](https://www.acmicpc.net/problem/1238)|다익스트라|X|
+  |[두 동전](https://www.acmicpc.net/problem/16197)|BFS|X|
+  |[격자상의 경로](https://www.acmicpc.net/problem/10164)|DP(조합)|X|
 </details>
