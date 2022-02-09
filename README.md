@@ -952,3 +952,57 @@
   </tbody>
 </table>
 </details>
+
+<details markdown="1">
+<summary><strong> 2022/02</strong></summary>
+<br>
+<table style="text-aling:center">
+    <thead>
+        <tr align="center">
+        	<th> </th>
+    		<th>레벨</th>
+    		<th>문제</th>
+    		<th>유형</th>
+    	</tr>
+    </thead>
+    <tbody>
+     <tr align="center">
+            <td rowspan="4">29주차<br>(2022/02/11 ~ 2022/02/17)</td>
+            <td style="vertical-align:middle"><img src="./이미지/silver1.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/10164">
+                    BOJ 10164 격자상의 경로
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/16197">
+                    BOJ 16197 두 동전
+                </a>
+            </td>
+            <td>BFS</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/9935">
+                    BOJ 9935 문자열 폭발
+                </a>
+            </td>
+            <td>문자열, Stack</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1238">
+                    BOJ 1238 파티
+                </a>
+            </td>
+            <td>다익스트라</td>
+     </tr>
+  </tbody>
+</table>
+</details>
