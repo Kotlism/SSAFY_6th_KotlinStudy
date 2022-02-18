@@ -1003,6 +1003,34 @@
             </td>
             <td>다익스트라</td>
      </tr>
+     <tr align="center">
+            <td rowspan="3">30주차<br>(2022/02/17 ~ 2022/02/24)</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/16929">
+                    BOJ 16929 Two Dots
+                </a>
+            </td>
+            <td>DFS</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1976">
+                    BOJ 1976 여행가자
+                </a>
+            </td>
+            <td>유니온파인드</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1107">
+                    BOJ 1107 리모컨
+                </a>
+            </td>
+            <td>완전탐색</td>
+        </tr>
   </tbody>
 </table>
 </details>
