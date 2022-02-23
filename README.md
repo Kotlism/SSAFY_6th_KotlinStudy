@@ -31,7 +31,7 @@
         </td>
         <td align="center">
             <a href="https://github.com/Jueundev">                 
-                <img alt="최주은" src="https://avatars.githubusercontent.com/Jueundev" width="200" />            
+                <img alt="최주은" src="https://avatars.githubusercontent.com/loveStarDev" width="200" />            
             </a>
         </td>
     </tr>
