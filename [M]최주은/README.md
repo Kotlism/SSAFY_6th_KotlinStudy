@@ -471,7 +471,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong> 30주차❄ (2022/02/11 ~ 2022/02/17)</strong></summary> 
+<summary><strong> 30주차❄ (2022/02/17 ~ 2022/02/24)</strong></summary> 
 <br>
 <br>
 
@@ -479,7 +479,7 @@
 | :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
 |골드4|[[BOJ_16929_Two Dots](https://www.acmicpc.net/problem/16929)]|DFS| ○ | JAVA |[클릭](./BOJ/16929_twodots.java)||
 |골드4|[[BOJ_1976_여행 가자](https://www.acmicpc.net/problem/1976)]|유니온파인드| ○ | JAVA | [클릭](./BOJ/1976_여행가자.java)||
-|골드5|[[BOJ_1107_리모컨](https://www.acmicpc.net/problem/1107)]|완전탐색| ○ | JAVA |[클릭](./BOJ/1107_.java)||
+|골드5|[[BOJ_1107_리모컨](https://www.acmicpc.net/problem/1107)]|완전탐색| ○ | JAVA |[클릭](./BOJ/1107_리모컨.java)||
 
 <br>
 </details>
