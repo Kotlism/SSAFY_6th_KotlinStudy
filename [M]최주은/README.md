@@ -436,3 +436,50 @@
 
 <br>
 </details>
+
+<details markdown="1">
+<summary><strong> 28주차❄ (2022/01/28 ~ 2022/02/10)</strong></summary> 
+<br>
+<br>
+
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|골드5|[[BOJ_16455_K번째수찾는함수](https://www.acmicpc.net/problem/16455)]|정렬| ✕(Java로 풀수없는문제) | JAVA |||
+|골드5|[[BOJ_3190_뱀](https://www.acmicpc.net/problem/3190)]|Deque| ○ | JAVA | [클릭](./BOJ/3190_뱀.java)||
+|골드4|[[BOJ_1493_박스 채우기](https://www.acmicpc.net/problem/1493)]|분할정복| ✕ | JAVA |||
+|골드4|[[BOJ_19238_스타트 택시](https://www.acmicpc.net/problem/19238)]|BFS| ✕ | JAVA |||
+
+
+<br>
+</details>
+
+
+<details markdown="1">
+<summary><strong> 29주차❄ (2022/02/11 ~ 2022/02/17)</strong></summary> 
+<br>
+<br>
+
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|골드4|[[BOJ_9935_문자열 폭발](https://www.acmicpc.net/problem/9935)]|스택| ○ | JAVA |[클릭](./BOJ/9935_문자열폭발.java)||
+|골드3|[[BOJ_1238_파티](https://www.acmicpc.net/problem/1238)]|다익스트라| ✕ | JAVA | [클릭](./BOJ/1238_파티.java)||
+|골드4|[[BOJ_16197_두 동전](https://www.acmicpc.net/problem/16197)]|BFS| ○ | JAVA |[클릭](./BOJ/16197_두동전.java)||
+|실버1|[[BOJ_10164_격자상의 경로](https://www.acmicpc.net/problem/10164)]|조합론| ○ | JAVA |[클릭](./BOJ/10164_격자상의경로.java)||
+
+
+<br>
+</details>
+
+<details markdown="1">
+<summary><strong> 30주차❄ (2022/02/11 ~ 2022/02/17)</strong></summary> 
+<br>
+<br>
+
+| 레벨 |     문제     |                             내용                             | 수행 | 언어 | 바로가기 | 정리글 |
+| :----: | :----------: | :----------------------------------------------------------: | :----: | :----: | :----: | :----: |
+|골드4|[[BOJ_16929_Two Dots](https://www.acmicpc.net/problem/16929)]|DFS| ○ | JAVA |[클릭](./BOJ/16929_twodots.java)||
+|골드4|[[BOJ_1976_여행 가자](https://www.acmicpc.net/problem/1976)]|유니온파인드| ○ | JAVA | [클릭](./BOJ/1976_여행가자.java)||
+|골드5|[[BOJ_1107_리모컨](https://www.acmicpc.net/problem/1107)]|완전탐색| ○ | JAVA |[클릭](./BOJ/1107_.java)||
+
+<br>
+</details>
