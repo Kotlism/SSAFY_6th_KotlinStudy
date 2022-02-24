@@ -1030,6 +1030,43 @@
                 </a>
             </td>
             <td>완전탐색</td>
+     </tr>
+     <tr align="center">
+            <td rowspan="4">31주차<br>(2022/02/24 ~ 2022/03/03)</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2096">
+                    BOJ 2096 내려가기
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/11779">
+                    BOJ 11779 최소비용구하기
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/3079">
+                    BOJ 3079 입국심사
+                </a>
+            </td>
+            <td>이분탐색</td>
+     </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/20165">
+                    BOJ 20165 인내의 도미노 장인 호석
+                </a>
+            </td>
+            <td>구현</td>
         </tr>
   </tbody>
 </table>
