@@ -1071,3 +1071,113 @@
   </tbody>
 </table>
 </details>
+
+<details markdown="1">
+<summary><strong> 2022/03</strong></summary>
+<br>
+<table style="text-aling:center">
+    <thead>
+        <tr align="center">
+        	<th> </th>
+    		<th>레벨</th>
+    		<th>문제</th>
+    		<th>유형</th>
+    	</tr>
+    </thead>
+    <tbody>
+     <tr align="center">
+            <td rowspan="4">32주차<br>(2022/03/03 ~ 2022/03/10)</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/14567">
+                    BOJ 14567 선수과목
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/23040">
+                    BOJ 23040 누텔라 트리 (Easy)
+                </a>
+            </td>
+            <td>트리</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/19542">
+                    BOJ 19542 전단지 돌리기
+                </a>
+            </td>
+            <td>유니온파인드</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/20055">
+                    BOJ 20055 컨베이어 벨트 위의 로봇
+                </a>
+            </td>
+            <td>구현</td>
+     </tr>
+     <tr align="center">
+            <td rowspan="3">33, 34주차<br>(2022/03/10 ~ 2022/03/24)</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold3.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/23040">
+                    BOJ 23040 누텔라트리 (Easy)
+                </a>
+            </td>
+            <td>유니온파인드</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/silver2.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/2644">
+                    BOJ 2644 촌수계산
+                </a>
+            </td>
+            <td>유니온파인드</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/21610">
+                    BOJ 21610 마법사 상어와 비바라기
+                </a>
+            </td>
+            <td>DFS</td>
+     </tr>
+     <tr align="center">
+            <td rowspan="3">35주차<br>(2022/03/24 ~ 2022/03/31)</td>
+            <td style="vertical-align:middle"><img src="./이미지/gold5.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1240">
+                    BOJ 1240
+                </a>
+            </td>
+            <td>트리</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/gold4.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/20924">
+                    BOJ 20924 트리의 기둥과 가지
+                </a>
+            </td>
+            <td>DP</td>
+        </tr>
+        <tr align="center">
+            <td style="vertical-align:middle"><img src="./이미지/silver1.svg" width="17"/></td>
+            <td>
+                <a href="https://www.acmicpc.net/problem/1074">
+                    BOJ 1074 Z
+                </a>
+            </td>
+            <td>DFS</td>
+     </tr>
+  </tbody>
+</table>
+</details>
