@@ -21,7 +21,7 @@
         </td>
         <td align="center">
             <a href="https://github.com/sangilyoon-dev">                 
-                <img alt="윤상일" src="https://avatars.githubusercontent.com/sangilyoon-dev" width="200" />            
+                <img alt="윤상일" src="https://avatars.githubusercontent.com/sangily" width="200" />            
             </a>
         </td>
         <td align="center">
